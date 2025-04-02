@@ -1,1 +1,1 @@
-print("Boa tarde, tudo bem?")
+print("Olá, você está bem?")
